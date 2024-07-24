@@ -1,4 +1,4 @@
-# Trivia-Board-Game
+# Trivia Board Game
 
 ## Description
 
