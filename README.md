@@ -14,7 +14,7 @@ This is a simple trivia game coded using C programming that can be run through t
 In the <b>game phase</b>, the user is first asked to import a text file containing trivia questions. A sample text file, sample.txt, has been provided. Then, the user sets the dimensions of the board game and the board is initialized so that no single row contains two trivias starting with the same letter and case. The game then starts, and the user must successfully guess at least one trivia from each row to win the game.
 
 <div align="center">
-  <img alt="Game Menu" src="https://github.com/KirstenTan/Trivia-Board-Game/blob/main/images/Game%20Menu.png" width="20%" display="flex" align-items="center">
+  <img alt="Game Menu" src="https://github.com/KirstenTan/Trivia-Board-Game/blob/main/images/Game%20Menu.png" width="20%" vertical-align="middle" display="inline-block">
   <img alt="Play Game" src="https://github.com/KirstenTan/Trivia-Board-Game/blob/main/images/Play%20Game.png" width="20%">
 </div>
 
