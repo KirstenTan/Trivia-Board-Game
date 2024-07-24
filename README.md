@@ -13,14 +13,10 @@ This is a simple trivia game coded using C programming that can be run through t
 
 In the <b>game phase</b>, the user is first asked to import a text file containing trivia questions. A sample text file, sample.txt, has been provided. Then, the user sets the dimensions of the board game and the board is initialized so that no single row contains two trivias starting with the same letter and case. The game then starts, and the user must successfully guess at least one trivia from each row to win the game.
 
-<div align="center">
-  <img alt="Game Menu" src="https://github.com/KirstenTan/Trivia-Board-Game/blob/main/images/Game%20Menu.png" width="20%" align="top">
-  <img alt="Play Game" src="https://github.com/KirstenTan/Trivia-Board-Game/blob/main/images/Play%20Game.png" width="20%" align="top">
-</div>
+<img alt="Play Game" src="https://github.com/KirstenTan/Trivia-Board-Game/blob/main/images/Play%20Game.png" width="20%">
+<i>A 4x5 board game setup.</i>
 
 In the <b>admin phase</b>, the user is presented with a menu containing the following options: Add Word, Add Trivia, Modify Entry, Delete Word, Delete Clue, View Words, View Clues, Export, and Import. This allows the user to modify the list of trivia included in the game, save the current list of trivia, and load a previously saved list of trivia.
 
-<div align="center">
-  <img alt="Admin Menu" src="https://github.com/KirstenTan/Trivia-Board-Game/blob/main/images/Admin%20Menu.png" width="20%" align="top">
-  <img alt="Add Word" src="https://github.com/KirstenTan/Trivia-Board-Game/blob/main/images/Add%20Word.png" width="20%" align="top">
-</div>
+<img alt="Add Word" src="https://github.com/KirstenTan/Trivia-Board-Game/blob/main/images/Add%20Word.png" width="20%" align="top">
+<i>The Add Word feature in the admin phase.</i>
