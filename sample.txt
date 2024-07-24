@@ -1,0 +1,111 @@
+Object: anger
+Kind of: Emotion
+Caused by: Irritation, Frustration
+Synonym: Mad
+
+Object: basketball
+Kind of: Team Sport
+Location: Court
+Positions: Point Guard, Center
+Famous Players: Stephen Curry, Larry Bird
+
+Object: Bicycle
+Kind of: Vehicle
+Contains: 2 Wheels
+Purpose: Exercising, Commuting
+
+Object: Bird
+Kind of: Animal
+Body Part: Wings
+
+Object: Coffee
+Kind of: Drink
+Variations: Lungo, Ristretto
+Taste: Bitter, Sweet
+Contains: Caffeine
+
+Object: Eiffel Tower
+Name of: Building
+Location: Paris
+Height: 330 m
+Material: Iron
+Designer: Gustave Eiffel
+
+Object: Fur Elise
+Kind of: Piano Music
+Composer: Ludwig van Beethoven
+English Translation: For Elise
+
+Object: Guitar
+Kind of: Instrument
+Made of: Wood, Strings
+Variations: Acoustic, Classical, Electric
+
+Object: ice cream
+Kind of: Dessert
+Taste: Sweet, Cold
+Flavors: Vanilla, Chocolate, Strawberry
+Famous Restaurants: Cold Stone, Dairy Queen
+
+Object: iPhone
+Kind of: Device
+Size: Small, Handheld
+Brand: Apple
+
+Object: Jupiter
+Kind of: Planet, Gas Giant
+Moons: Io, Europa, Callisto
+Named after: The King of The Roman Gods
+Location: Space
+
+Object: Lemon
+Kind of: Fruit
+Color: Yellow
+Taste: Sour
+
+Object: Mechanical Pencil
+Kind of: Writing Tool
+Made of: Graphite, Wood, Rubber
+Length: Shortens with Use
+Used With: Eraser, Paper
+
+Object: Mona Lisa
+Name of: Painting
+Artist: Leonardo da Vinci
+
+Object: Mount Everest
+Name of: Mountain
+Location: Himalayas
+Height: 8,849 m
+
+Object: Rihanna
+Name of: Female Singer
+Songs: Umbrella, Stay, Diamonds
+Partner: ASAP Rocky
+Brands: Fenty Beauty
+Known for: Pop, R&B, Hip Hop Music
+
+Object: strawberry
+Kind of: Red Fruit
+Taste: Sweet and Juicy
+Used in: Desserts, Jams, Smoothies
+Contains: Small Seeds on the Surface
+
+Object: Sunglasses
+Kind of: Fashion Accessory
+Made of: Frame, Lenses
+Purpose: Protect eyes from sunlight
+Worn: Outdoors, Sunny Days
+Brands: Sunnies, Ray-Ban
+
+Object: Volcano
+Kind of: Geological Feature
+Can be: Active, Dormant, Extinct
+Releases: Lava, Ash, Gas
+Examples: Mayon, Taal 
+
+Object: Watermelon
+Kind of: Fruit
+Size: Large
+Color: Green and Red
+Contains: High Water Content
