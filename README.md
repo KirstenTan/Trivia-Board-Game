@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple trivia game coded using C programming that can be run through the terminal. The application features a game phase and admin phase and allows the user to customize their game.
+This is a simple trivia game coded using C programming that can be run through the terminal. The application features a game phase and admin phase, allowing the user to customize their game.
 
 ## Installation
 
