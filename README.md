@@ -24,3 +24,8 @@ In the <b>admin phase</b>, the user is presented with a menu containing the foll
   <img alt="Add Word" src="https://github.com/KirstenTan/Trivia-Board-Game/blob/main/images/Add%20Word.png" width="20%"><br>
   <i>The Add Word feature in the admin phase.</i>
 </div>
+
+## Author
+Kirsten Tan
+[Email Me](mailto:kirstentan22@gmail.com)
+[LinkedIn Profile](https://www.linkedin.com/in/kirsten-robyn-tan/)
